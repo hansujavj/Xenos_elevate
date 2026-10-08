@@ -1031,7 +1031,7 @@ Gemma 4 should <strong>NOT</strong> directly control safety-critical hardware wi
 
 ```bash
 # Clone the repository
-git clone <REPOSITORY_URL>
+git clone https://github.com/hansujavj/Xenos_elevate.git
 cd agrichain
 ```
 
@@ -1200,68 +1200,21 @@ npm test
 ## 📸 Screenshots & Demo
 
 <p align="center">
-  <img src="https://res.cloudinary.com/CLOUD_NAME/image/upload/v1/agrichain/dashboard.png" width="900" alt="AgriChain Farmer Dashboard"/>
+  <img  width="373" height="800" alt="Crop Clinic — Disease Diagnosis" src="https://github.com/user-attachments/assets/41b2603f-6202-4a8c-bc1e-dcfc98eb61a2" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://res.cloudinary.com/CLOUD_NAME/image/upload/v1/agrichain/crop-clinic.png" width="900" alt="Crop Clinic — Disease Diagnosis"/>
+  <img width="373" height="800" alt="image" src="https://github.com/user-attachments/assets/13929203-52a7-4db1-8daf-e2b0ffa73550" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://res.cloudinary.com/CLOUD_NAME/image/upload/v1/agrichain/gemma4-inference.png" width="900" alt="Gemma 4 Edge AI Inference"/>
+  <img width="373" height="800" alt="image" src="https://github.com/user-attachments/assets/17e43c50-385b-428a-bbe2-93742c01ad1d" />
+
 </p>
-
----
-
-<p align="center">
-  <img src="https://res.cloudinary.com/CLOUD_NAME/image/upload/v1/agrichain/disease-diagnosis.png" width="900" alt="Disease Diagnosis Result"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://res.cloudinary.com/CLOUD_NAME/image/upload/v1/agrichain/iot-dashboard.png" width="900" alt="IoT Sensor Dashboard"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://res.cloudinary.com/CLOUD_NAME/image/upload/v1/agrichain/smart-irrigation.png" width="900" alt="Smart Irrigation Assistant"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://res.cloudinary.com/CLOUD_NAME/image/upload/v1/agrichain/esp32-hardware.png" width="900" alt="ESP32 Sensor Node Hardware"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://res.cloudinary.com/CLOUD_NAME/image/upload/v1/agrichain/weather-module.png" width="900" alt="Weather Intelligence Module"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://res.cloudinary.com/CLOUD_NAME/image/upload/v1/agrichain/market-insights.png" width="900" alt="Market Insights"/>
-</p>
-
----
-
-## 🎥 Demo
-
-| Demo | Description | Link |
-|:-----|:------------|:-----|
-| **Full System Demo** | End-to-end walkthrough: farmer uploads image → Gemma 4 diagnosis → irrigation recommendation → pump activation | [Watch Demo](#) |
-| **Architecture Walkthrough** | Technical explanation of system architecture, data flow, and Edge AI integration | [Watch Video](#) |
-| **Gemma 4 Inference Demo** | Focused demonstration of Gemma 4 processing a crop image with sensor context and generating structured diagnosis | [Watch Demo](#) |
-| **Hardware Demo** | ESP32 sensor node in operation — live sensor readings, relay activation, pump control | [Watch Demo](#) |
-
 ---
 
 ## 👥 Team
